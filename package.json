@@ -1,0 +1,33 @@
+{
+  "name": "climate-feathers-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulstefanday/Climate-Feathers-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulstefanday/Climate-Feathers-API/issues"
+  },
+  "homepage": "https://github.com/paulstefanday/Climate-Feathers-API#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "compression": "^1.6.2",
+    "feathers": "^2.0.3",
+    "feathers-authentication": "^1.0.2",
+    "feathers-authentication-jwt": "^0.3.0",
+    "feathers-authentication-local": "^0.3.2",
+    "feathers-errors": "^2.5.0",
+    "feathers-hooks": "^1.7.1",
+    "feathers-hooks-common": "^2.0.3",
+    "feathers-permissions": "^0.1.1",
+    "feathers-rest": "^1.5.2",
+    "feathers-rethinkdb": "^0.3.3"
+  }
+}
